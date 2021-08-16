@@ -1,0 +1,50 @@
+            
+            .hor 
+            {
+                background-color:transparent;
+               list-style: none;
+               padding:0px;
+               margin:0px;
+               color:whitesmoke;
+               text-decoration: none;
+            }
+           li a
+            {
+                color: whitesmoke;
+                text-decoration: none;
+                float: right;
+                display: block;
+                margin: 6px;
+                padding: 8px;
+               
+            }
+            .hor a:hover
+            {
+                background-color:rgb(241, 209, 127);
+                color: black;
+                text-decoration: none;
+            }
+            .head
+            {
+               text-align: center;
+               margin-top: 10%;
+               color:rgb(44, 43, 43);
+               font-family:unset ;
+               font-size:320%;
+            }
+            .gal
+            {
+                text-align: right;
+                margin-top: 100%;
+                
+            }
+            a{
+                text-decoration: none;
+                color: whitesmoke;
+            }
+            a:hover
+            {
+                background-color:rgb(241, 209, 127);
+                color: black;
+                text-decoration: none;
+            }
