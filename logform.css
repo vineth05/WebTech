@@ -1,0 +1,15 @@
+.form-container
+{
+    background:transparent;
+    color:whitesmoke;
+    padding: 30px;
+    border-radius: 20px;
+    box-shadow: 0px 0px 10px 0px #000;
+}
+.btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:visited {
+    background-color:rgb(241, 16, 16)
+}
+.bsize
+{
+width: 20%;
+}
